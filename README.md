@@ -7,7 +7,11 @@ The punctuations have been added using "https://github.com/ottokart/punctuator2"
 The entities were extracted using NLTK and Spacy.
 
 Some useful commands:
+
 pip install -q transformers
+
 pip install soundfile 
+
 pip install librosa 
+
 nltk.download()
