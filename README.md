@@ -1,5 +1,6 @@
 # Named-Entity-Recognition
-Finding the named entities in an audio file using NLP
+Finding the named entities in an audio file using NLP.
+
 The audio file used can be found with the name "audio.wav".
 For extracting text from the audio, Wav2Vec has been utilized.
 The punctuations have been added using "https://github.com/ottokart/punctuator2"
